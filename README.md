@@ -72,7 +72,7 @@
 - Mixing vision, language, and audio like a digital cocktail
 - Trying out new tools, APIs, and breaking stuff for fun
 - Stitching models into pipelines, APIs, and sometimes full apps
-- Shipping fast, learning faster — and then rewriting it all
+- Shipping fast, learning faster and then rewriting it all
 - Composing music, trying to play all instruments
 - Having fun with the drum kit (seriously into this one)
 - Playing football with the best pals
